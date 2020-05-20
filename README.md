@@ -31,6 +31,9 @@ The number for neighbor graph in LPP.
 
 Number of target clusters.
 
+## Execution
+
+python TS-LPP.py 
 
 # License
 This project is licensed under the terms of the MIT license.
