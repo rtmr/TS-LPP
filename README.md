@@ -25,6 +25,11 @@ Download or clone the github repository, e.g. git clone https://github.com/rtmr/
 
 **n_clusters: int** (Number of target clusters)
 
+## Parameters
+
+Target dataset is set to the feature matrix without label information.
+(Target.csv contains the LAAF descriptors for solid, liquid, and amorphous states in silicon.)
+
 ## Execution
 ```
 python TS-LPP.py 
