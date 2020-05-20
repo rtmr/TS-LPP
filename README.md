@@ -17,7 +17,7 @@ Download or clone the github repository, e.g. git clone https://github.com/rtmr/
 
 # Usage
 
-Parameters:
+**Parameters:**
 
 n_components
 
