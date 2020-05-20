@@ -2,15 +2,15 @@
 Two Step Locality Preserving Projections (TS-LPP)
 
 # Requirements
-Python > 3.5
+Python > 3.7
 
-numpy >=1.10
+numpy >= 1.16.2
 
-scipy >= 0.16
+scikit-learn >= 0.20.3
 
-Cython >= 0.22.1
+scipy >= 1.4.1
 
-mpi4py >= 2.0 (optional)
+matplotlib >= 2.2.3
 
 # Installation
 Download or clone the github repository, e.g. git clone https://github.com/rtmr/TS-LPP
