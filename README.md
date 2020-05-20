@@ -15,5 +15,7 @@ mpi4py >= 2.0 (optional)
 # Installation
 Download or clone the github repository, e.g. git clone https://github.com/rtmr/TS-LPP
 
+# Usage
+
 # License
 This project is licensed under the terms of the MIT license.
