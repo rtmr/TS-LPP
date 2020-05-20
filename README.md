@@ -17,20 +17,19 @@ Download or clone the github repository, e.g. git clone https://github.com/rtmr/
 
 # Usage
 
-## **Parameters:**
+## Parameters
 
-n_components
+**n_components: int**
 
-The reduced dimension in the final step is defined by n_components.
+The reduced dimension in the final step.
 
- 37 # Number for neighbor graph in LPP
- 38 knn=7
- 39 
- 40 # K nearest neighbor for prediction
- 41 K_number=10
- 42 
- 43 # Number of target clusters
- 44 n_clusters=3
+**knn: int**
+
+The number for neighbor graph in LPP.
+
+**n_clusters: int**
+
+Number of target clusters.
 
 
 # License
