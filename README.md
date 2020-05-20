@@ -2,7 +2,7 @@
 Two Step Locality Preserving Projections (TS-LPP)
 
 # Requirements
-Python > 3.7
+Python >= 3.7
 
 numpy >= 1.16.2
 
