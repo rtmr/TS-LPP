@@ -19,17 +19,11 @@ Download or clone the github repository, e.g. git clone https://github.com/rtmr/
 
 ## Parameters
 
-**n_components: int**
+**n_components: int** (The reduced dimension in the final step)
 
-The reduced dimension in the final step.
+**knn: int** (The number for neighbor graph in LPP)
 
-**knn: int**
-
-The number for neighbor graph in LPP.
-
-**n_clusters: int**
-
-Number of target clusters.
+**n_clusters: int** (Number of target clusters)
 
 ## Execution
 ```
