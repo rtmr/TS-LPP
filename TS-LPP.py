@@ -260,7 +260,7 @@ for dim_index in range(dim_num):
 
         labels=kmeans_model.labels_
 
-        PseudoF=sklearn.metrics.calinski_harabaz_score(X_final,labels)
+        PseudoF=sklearn.metrics.calinski_harabasz_score(X_final,labels)
 
 
         if PseudoF > PseudoF_max:
@@ -341,7 +341,7 @@ if n_components==3:
 
 
 # Calculate cluster index
-PseudoF=sklearn.metrics.calinski_harabaz_score(X_final,labels)
+PseudoF=sklearn.metrics.calinski_harabasz_score(X_final,labels)
 
 print('')
 print('*************')
